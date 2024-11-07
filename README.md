@@ -1,0 +1,2 @@
+# SmartSpoon.
+receipe generator
